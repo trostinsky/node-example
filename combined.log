@@ -1,0 +1,11 @@
+{"message":"test","level":"info"}
+{"level":"error","message":"test"}
+error: test
+info: test
+info: test
+info: test
+warn: 127.0.0.1 - there's no place like home
+info: test
+warn: 127.0.0.1 - there's no place like home
+info: test
+warn: 127.0.0.1 - there's no place like home
