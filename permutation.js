@@ -11,6 +11,7 @@ const permute = (str) => {
         const p = permute(cuttedString);
         p.map((perm) => {
             if(results.includes(l + perm)) return;
+
             results.push(l + perm);
         })
     });

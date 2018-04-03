@@ -13,7 +13,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "chalk": "^2.3.2",
+    "color-logger": "0.0.6",
+    "jsdom": "^11.7.0",
     "winston": "^3.0.0-rc3"
   }
 }
