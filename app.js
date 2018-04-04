@@ -1,5 +1,5 @@
-const {test} = require('./test'); // import test from
-const { permute } = require("./permutation.js");
+const {test} = require('./examples/test'); // import test from
+const { permute } = require("./examples/permutation.js");
 const {format} = require("winston");
 //const logger = require("color-logger");
 const chalk = require("chalk");
